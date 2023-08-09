@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tenischev
 - 👀 My professional interests are Java, system architecture and microservices. My hobbies are game development and history.
-- 🌱 I’m currently learning new DevOps tools to improve pipeline in my company and Unity as hobby.
+- 🌱 I’m currently reasearcing different Databases from CNCF ladscape for fun and Unreal Engine as a hobby.
 - 💞️ I’m looking to collaborate on template for Java in AsyncAPI, since i'm only one maintainer...
 - 📫 How to reach me:
   - email: tenischev.semen@gmail.com
